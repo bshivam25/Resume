@@ -1,0 +1,53 @@
+body{
+    background-color: #252629  ;
+}
+hr{
+    color: grey;
+    border-style: none;
+    border-top-style: dotted;
+    width: 5%;
+    border-width: 5px;
+}
+h1{
+    color: orange;
+}
+p{
+    color: aqua;
+}
+h3{
+    color: orange;
+}
+a{
+    color: white;
+}
+a:hover{
+    color: aqua;
+    
+}
+ol{
+    color: white;
+}
+ul{
+    color: white;
+}
+table{
+    color: white;
+}
+.education{
+    color: white;
+    border-collapse: collapse;
+    width: 40%;
+}
+.education th{
+    color: aqua ;
+}
+.education td:hover{
+    background-color: orange;
+}
+img:hover{
+   
+    background-color:orange;
+}
+table{
+    border-collapse: collapse;
+}
